@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/Artificialheaven/GOCQ-E/main/E.jpg" width="384" height="216" alt="">
+    <img src="http://api1.setuplu.top/E.jpg" width="384" height="216" alt="">
   </a>
 </p>
 
@@ -8,7 +8,7 @@
 
 # GOCQ-E
 
-**GOCQHTTP/E**  
+**分秒之间**  
 **By ArtficialHeaven.Xiaoyaona(逍遥)**  
 
 </div>
